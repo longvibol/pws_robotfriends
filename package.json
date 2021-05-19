@@ -1,5 +1,5 @@
 {
-  "name": "robofriends",
+  "name": "pws_robofriends",
   "version": "0.1.0",
   "private": true,
   "homepage": "http://longvibol.github.io/pws_robofriends",
@@ -26,7 +26,6 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
       "not op_mini all"
     ],
     "development": [
