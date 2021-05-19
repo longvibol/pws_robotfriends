@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://longvibol.github.io/pws_robofriends",
+  "homepage": "http://longvibol.github.io/pws_robofriends",
   "dependencies": {
     "build": "^0.1.4",
     "git": "^0.1.3",
