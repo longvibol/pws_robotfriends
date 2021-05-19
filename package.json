@@ -1,8 +1,8 @@
 {
-  "name": "pws_robofriends",
+  "name": "pws_robotfriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://longvibol.github.io/pws_robofriends",
+  "homepage": "http://longvibol.github.io/pws_robotfriends",
   "dependencies": {
     "build": "^0.1.4",
     "git": "^0.1.3",
